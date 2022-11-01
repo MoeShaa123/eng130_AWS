@@ -1,6 +1,8 @@
 ## What is cloud computing?
 Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS).
 
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. AWS has significantly more services, and more features within those services, than any other cloud provider–from infrastructure technologies like compute, storage, and databases–to emerging technologies
+
 ![image](https://user-images.githubusercontent.com/106158041/199238202-115cf486-5243-4385-8449-a5b7edfb64ae.png)
 ## Benefits of cloud computing
 
@@ -16,8 +18,7 @@ Cloud computing is the on-demand delivery of IT resources over the Internet with
 
 * Go global in minutes – Easily deploy your application in multiple regions around the world with just a few clicks. This means you can provide lower latency and a better experience for your customers at minimal cost.
 
-
-Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. AWS has significantly more services, and more features within those services, than any other cloud provider–from infrastructure technologies like compute, storage, and databases–to emerging technologies
+## SAAS, PAAS and IAAS
 
 * SAAS(Software as a service) - Utilizes the internet to deliver applications, which are managed by a third-party vendor, to its users.
 
