@@ -1,4 +1,7 @@
 
+
+![Screenshot 2022-11-01 165057](https://user-images.githubusercontent.com/106158041/199290848-1cca8b12-ed29-4263-b703-428b94a00128.png)
+
 ## To set up reverse proxy, SSH into the VM, run `sudo apt-get update -y` and `sudo apt-get upgrade -y`
 
 ## Next install `nginx` using `sudo apt install nginx -y`
