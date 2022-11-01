@@ -6,12 +6,25 @@ Cloud computing is the on-demand delivery of IT resources over the Internet with
 
 Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. AWS has significantly more services, and more features within those services, than any other cloud provider–from infrastructure technologies like compute, storage, and databases–to emerging technologies
 
-SAAS(Software as a service) - Utilizes the internet to deliver applications, which are managed by a third-party vendor, to its users.
+* SAAS(Software as a service) - Utilizes the internet to deliver applications, which are managed by a third-party vendor, to its users.
 
-PAAS(Platform as a service) - Provides cloud components to software while being used mainly for applications.
+* PAAS(Platform as a service) - Provides cloud components to software while being used mainly for applications.
 
-IAAS(Infrastructure as a service) - Fully self-service for accessing and monitoring computers, networking, storage, and other services.
+* IAAS(Infrastructure as a service) - Fully self-service for accessing and monitoring computers, networking, storage, and other services.
 
 ![image](https://user-images.githubusercontent.com/106158041/199240394-e9ea8323-602d-4c1e-8e89-9ae68f774e5c.png)
 
 ![image](https://user-images.githubusercontent.com/106158041/199240513-89b88b5e-157c-4476-978f-87511c59b2c5.png)
+
+## CapEx vs OpEx
+
+Capital expenditures (CapEx) are major purchases a company makes that are designed to be used over the long term.
+
+Operating expenses (OpEx) are the day-to-day expenses a company incurs to keep its business operational.
+
+CapEx is often more expensive and labor-intensive and often requires greater patience to reap rewards. 
+
+OpEx is often cheaper and more flexible to incur. 
+
+![image](https://user-images.githubusercontent.com/106158041/199243217-d4f421ec-0964-4b61-87e7-548cb3524fc6.png)
+
