@@ -51,3 +51,7 @@
 - Exit once you have done that, and then check the syntax with `sudo nginx -t`
 
 - Run `sudo systemctl restart nginx` and you have set up the reverse proxy
+
+## Copying files
+
+To copy files from local host into your VM run this command `scp -i access.pem -r ~/Documents/directory1 ubuntu@0.0.0.0:/home/ubuntu/`
