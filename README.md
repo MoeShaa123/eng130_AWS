@@ -42,3 +42,6 @@ OpEx is often cheaper and more flexible to incur.
 
 ![image](https://user-images.githubusercontent.com/106158041/199243217-d4f421ec-0964-4b61-87e7-548cb3524fc6.png)
 
+## Diagram
+
+![cloud drawio](https://user-images.githubusercontent.com/106158041/199686868-20156f47-45fd-45c9-905c-1f31c5c1a68f.png)
