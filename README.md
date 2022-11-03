@@ -63,7 +63,13 @@ OpEx is often cheaper and more flexible to incur.
 
 - Benefits are High availability, High security and budget friendly
 
-- Can be used to backup files, revisit old files (infrequent access), and you can host a static website
+### Use cases
+
+- Archive data at the lowest cost
+
+- Back up and restore critical data
+
+- Run cloud-native applications
 
 
 ![s3 drawio](https://user-images.githubusercontent.com/106158041/199713359-91679118-06dc-45c2-8c6d-8fa7d2ad1a76.png)
