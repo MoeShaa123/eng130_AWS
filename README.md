@@ -46,11 +46,21 @@ OpEx is often cheaper and more flexible to incur.
 
 ![cloud drawio](https://user-images.githubusercontent.com/106158041/199686868-20156f47-45fd-45c9-905c-1f31c5c1a68f.png)
 
-- Create a key file - sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv D68FA50FEA312927
-- echo "deb https://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.2.list
--  Update and Upgrade - sudo apt-get update -y && sudo apt-get upgrade -y
--  Install MongoDB - sudo apt-get install -y mongodb-org=3.2.20 mongodb-org-server=3.2.20 mongodb-org-shell=3.2.20 mongodb-org-mongos=3.2.20 mongodb-org-tools=3.2.20
--  Check if its running - sudo systemctl status mongod
--  Open the config file - sudo nano /etc/mongod.conf
+- Create a key file `- sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv D68FA50FEA312927`
+- `echo "deb https://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.2.list`
+-  Update and Upgrade - `sudo apt-get update -y` && `sudo apt-get upgrade -y`
+-  Install MongoDB `- sudo apt-get install -y mongodb-org=3.2.20 mongodb-org-server=3.2.20 mongodb-org-shell=3.2.20 mongodb-org-mongos=3.2.20 mongodb-org-tools=3.2.20`
+-  Check if its running - `sudo systemctl status mongod`
+-  Open the config file - `sudo nano /etc/mongod.conf`
 -  Check if its listening on port: 27017
 -  Change the config file to allow access to everyone by changing bindIp to 0.0.0.0
+
+## Disaster recovery plan
+
+- In case something goes wrong, you are able to recover your data. Reliable and fast recovery of data loss.
+
+- Amazon S3 is an object storage service that stores data as objects within buckets
+
+- Benefits are High availability, High security and budget friendly
+
+- Can be used to backup files, revisit old files (infrequent access), and you can host a static website
