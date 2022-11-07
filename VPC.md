@@ -18,6 +18,6 @@ A route table contains a set of rules, called routes, that determine where netwo
 
 ![vpc drawio](https://user-images.githubusercontent.com/106158041/200299803-1eaf640c-801d-483a-8536-57e7d32d2867.png)
 
-### Private & Public
+### Private & Public Subnets
 The difference between a private and public subnet is that a public subnet has an internet gateway attached to its route table so it can be accessed directly from the internet, while a private subnet does not.
 Anything deployed within a private subnet cannot be accessed from the Internet.
