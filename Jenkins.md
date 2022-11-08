@@ -16,9 +16,9 @@
 
 - Jenkins is an open source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery.
 
-- Many top companies are using Jenkins such as FaceBook, Netflix and LinkedIn.
+- Many top companies are using Jenkins such as FaceBook, Netflix and LinkedIn because of its benefits.
 
-- There are many other automation tools you can use such as Terraform, Chef, Puppet and Ansible.
+- There are many other automation tools you can use other than Jenkins such as Terraform, Chef, Puppet and Ansible.
 
 ![image](https://user-images.githubusercontent.com/106158041/200536000-e0d3b80b-b5bb-4ce1-99c1-affedfe1df9e.png)
 
