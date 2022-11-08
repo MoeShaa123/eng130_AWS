@@ -29,3 +29,13 @@
 - It has 1000+ plugins to ease your work. If a plugin does not exist, you can code it and share it with the community.
 - It is free of cost.
 - It is built with Java and hence, it is portable to all the major platforms.
+
+### Steps
+
+- Create a new ssh pair 
+- Copy the public and private key into ssh folder
+- Create a new CI/CD pipeline - app folder 
+- Generate a new ssh pair (ensure to generate it in .ssh folder on localhost)
+- Copy file.pub to github repo (will show you in a minute)
+- Copy the private key in Jenkins
+
